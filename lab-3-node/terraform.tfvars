@@ -1,0 +1,6 @@
+vsphere_user= "administrator@vsphere.local"
+vsphere_password= "VMware1!"
+vsphere_server= "192.168.1.45"
+disk_size_node1= "400"
+disk_size_node2= "400"
+disk_size_node3= "400"
